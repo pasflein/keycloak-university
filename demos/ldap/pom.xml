@@ -34,7 +34,7 @@
         <dependency>
             <groupId>org.keycloak</groupId>
             <artifactId>keycloak-util-embedded-ldap</artifactId>
-            <version>3.4.3.Final</version>
+            <version>26.0.6</version>
         </dependency>
     </dependencies>
 
